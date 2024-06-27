@@ -1,7 +1,7 @@
 precios = []
 
 #Ingreso de 10 precios en peso chilenos
-for i in range(3):
+for i in range(10):
     precio = int(input("Ingrese el valor de 10 productos en pesos chilenos: "))
     precios.append(precio)
 

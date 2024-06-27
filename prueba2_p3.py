@@ -8,8 +8,8 @@ for i in range(5):
 
 #Ingreso de nombre del usuario
 nombre = input("Ingrese nombre del turista: ")
-paisp =input("Ingrese su pais de prosedencia: ")
-print("El turista con el nombre", nombre ,"viene del pais", paisp,"y su capital es",paises[paisp])
+paisN =input("Ingrese su pais de prosedencia: ")
+print("El turista con el nombre", nombre ,"viene del pais", paisp,"y su capital es",paises[paisN])
 
 #Formato
 print("El turista con el nombre ",datos_usuarios.item["0"])
